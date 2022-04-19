@@ -1,0 +1,818 @@
+{
+  "data" : [ {
+    "id" : "50403003CUS001HK3440000000724535",
+    "type" : "customers",
+    "attributes" : {
+      "service-indicator-code" : null,
+      "multilingual-employer-name" : null,
+      "close-reason-code" : null,
+      "group-id" : null,
+      "multilingual-full-name" : null,
+      "checker-department-code" : null,
+      "referred-by-relationship-name" : null,
+      "customer-nationality-code" : "HKG",
+      "closing-id" : null,
+      "tracking-id" : null,
+      "last-name-override-flag" : "N",
+      "salutation-code" : "MIS",
+      "created-at" : null,
+      "multilingual-last-name" : null,
+      "middle-name" : null,
+      "senior-citizen-flag" : "N",
+      "first-name" : null,
+      "last-status-change-date" : null,
+      "multilingual-user-last-amended" : null,
+      "home-branch" : "337  ",
+      "multilingual-updated-at" : null,
+      "group-name" : null,
+      "auxmap" : null,
+      "multilingual-middle-name" : null,
+      "previous-core-banking-id" : "01C426336",
+      "reopen-counter" : 0,
+      "aux_SubStatus Change Date" : "10-05-2020",
+      "interface-id" : null,
+      "request-country-code" : null,
+      "status" : null,
+      "arm-code" : "NYV",
+      "misc_INC" : "4",
+      "gender" : "F",
+      "multilingual-language-code" : null,
+      "multilingual-created-at" : null,
+      "bsbda-flag" : "N",
+      "referred-by-relationship-no" : null,
+      "miscmap" : null,
+      "referral-id" : null,
+      "full-name-override-flag" : "N",
+      "multilingual-preferred-name" : null,
+      "full-name" : "QTDKVFXPSXK",
+      "segment-code" : "04",
+      "reference-id" : "3440000000724535",
+      "date-of-birth" : "1966-03-02",
+      "errordetails" : null,
+      "aux_SMS High Risk Teller Transaction Notification Opt-out Flag" : "N",
+      "resident-country" : "HK",
+      "sender-id" : "CRDUP",
+      "last-name" : null,
+      "sub-segment-code" : "PB ",
+      "multilingual-system-last-amended" : null,
+      "sourcing-id" : null,
+      "aux_SubStatus for Name Screening" : "A",
+      "demised-date" : null,
+      "updated-at" : null,
+      "country-id" : "HK",
+      "revision-number" : 9,
+      "reopen-indicator" : "N",
+      "acquisition-channel" : null,
+      "profile-type" : "C",
+      "profile-purging-date" : null,
+      "dedup-reference-number" : null,
+      "sender-branch" : "001  ",
+      "multilingual-first-name" : null,
+      "status-at" : null,
+      "profile-activation-date" : "1989-05-18",
+      "relationship-status" : "A",
+      "dedup-reason-code" : null,
+      "resident-status" : "R",
+      "multilingual-birth-place" : null
+    },
+    "relationships" : {
+      "lifestyleInformations" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/lifestyleInformations",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/lifestyleInformations"
+        }
+      },
+      "addresses" : {
+        "data" : [ {
+          "id" : "50403003ADD001HK3440000000724535CSA",
+          "type" : "addresses"
+        }, {
+          "id" : "50403003ADD001HK3440000000724535A02",
+          "type" : "addresses"
+        }, {
+          "id" : "50403003ADD001HK3440000000724535A03",
+          "type" : "addresses"
+        }, {
+          "id" : "50403003ADD001HK3440000000724535A01",
+          "type" : "addresses"
+        }, {
+          "id" : "50403003ADD001HK3440000000724535RES",
+          "type" : "addresses"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/addresses",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/addresses"
+        }
+      },
+      "cdd" : {
+        "data" : [ {
+          "id" : "50403003CDD001HK3440000000724535A",
+          "type" : "cdd"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/cdd",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/cdd"
+        }
+      },
+      "preferences" : {
+        "data" : [ {
+          "id" : "50403003CUS001HK3440000000724535",
+          "type" : "preferences"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/preferences",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/preferences"
+        }
+      },
+      "aliases" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/aliases",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/aliases"
+        }
+      },
+      "documents" : {
+        "data" : [ {
+          "id" : "50403003DOC001HK3440000000724535TCRS1",
+          "type" : "documents"
+        }, {
+          "id" : "50403003DOC001HK3440000000724535TTIN1",
+          "type" : "documents"
+        }, {
+          "id" : "50403003DOC001HK3440000000724535KHID1",
+          "type" : "documents"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/documents",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/documents"
+        }
+      },
+      "otherbankinformations" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/otherbankinformations",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/otherbankinformations"
+        }
+      },
+      "cip" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/cip",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/cip"
+        }
+      },
+      "employments" : {
+        "data" : [ {
+          "id" : "50403003EMP001HK3440000000724535",
+          "type" : "employments"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/employments",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/employments"
+        }
+      },
+      "pdpa" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/pdpa",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/pdpa"
+        }
+      },
+      "risks" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/risks",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/risks"
+        }
+      },
+      "kyc" : {
+        "data" : [ {
+          "id" : "50403003CUS001HK3440000000724535",
+          "type" : "kyc"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/kyc",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/kyc"
+        }
+      },
+      "externalrelationships" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/externalrelationships",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/externalrelationships"
+        }
+      },
+      "tars" : {
+        "data" : [ {
+          "id" : "50403003TAR001HK3440000000724535",
+          "type" : "tars"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/tars",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/tars"
+        }
+      },
+      "messages" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/messages",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/messages"
+        }
+      },
+      "contacts" : {
+        "data" : [ {
+          "id" : "50403003CON001HK3440000000724535LMP",
+          "type" : "contacts"
+        }, {
+          "id" : "50403003CON001HK3440000000724535BPN",
+          "type" : "contacts"
+        }, {
+          "id" : "50403003CON001HK3440000000724535RPN",
+          "type" : "contacts"
+        }, {
+          "id" : "50403003CON001HK3440000000724535EMP",
+          "type" : "contacts"
+        }, {
+          "id" : "50403003CON001HK3440000000724535B01",
+          "type" : "contacts"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/relationships/contacts",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535/contacts"
+        }
+      }
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000000724535"
+    }
+  }, {
+    "id" : "50403003CUS001HK3440000005276048",
+    "type" : "customers",
+    "attributes" : {
+      "service-indicator-code" : null,
+      "multilingual-employer-name" : null,
+      "close-reason-code" : null,
+      "group-id" : null,
+      "multilingual-full-name" : null,
+      "checker-department-code" : null,
+      "referred-by-relationship-name" : null,
+      "customer-nationality-code" : "CHN",
+      "closing-id" : "1510117",
+      "tracking-id" : null,
+      "last-name-override-flag" : "N",
+      "salutation-code" : "MR",
+      "created-at" : null,
+      "multilingual-last-name" : null,
+      "middle-name" : null,
+      "senior-citizen-flag" : "N",
+      "aux_CustomerGBAFlag" : "Y",
+      "aux_GBA Southbound" : "Y",
+      "aux_CARM Code" : "NFN",
+      "aux_International Mobile Preference flag" : "N",
+      "first-name" : null,
+      "last-status-change-date" : "2022-03-16",
+      "multilingual-user-last-amended" : null,
+      "home-branch" : "409  ",
+      "multilingual-updated-at" : null,
+      "group-name" : null,
+      "auxmap" : null,
+      "multilingual-middle-name" : null,
+      "previous-core-banking-id" : "04SB220316",
+      "reopen-counter" : 0,
+      "aux_SubStatus Change Date" : "16-03-2022",
+      "interface-id" : null,
+      "request-country-code" : null,
+      "status" : null,
+      "arm-code" : "NFN",
+      "misc_INC" : "1",
+      "gender" : "M",
+      "multilingual-language-code" : null,
+      "multilingual-created-at" : null,
+      "bsbda-flag" : "N",
+      "referred-by-relationship-no" : null,
+      "miscmap" : null,
+      "referral-id" : "1510117",
+      "full-name-override-flag" : "N",
+      "multilingual-preferred-name" : null,
+      "full-name" : "SB TESTONE",
+      "segment-code" : "02",
+      "reference-id" : "3440000005276048",
+      "date-of-birth" : "1991-01-01",
+      "errordetails" : null,
+      "aux_SMS High Risk Teller Transaction Notification Opt-out Flag" : "N",
+      "resident-country" : "CN",
+      "sender-id" : "UTS",
+      "last-name" : null,
+      "sub-segment-code" : null,
+      "multilingual-system-last-amended" : null,
+      "sourcing-id" : "1510117",
+      "aux_SubStatus for Name Screening" : "A",
+      "demised-date" : null,
+      "updated-at" : null,
+      "country-id" : "HK",
+      "revision-number" : 6,
+      "reopen-indicator" : "N",
+      "acquisition-channel" : "BFF ",
+      "profile-type" : "C",
+      "profile-purging-date" : null,
+      "dedup-reference-number" : null,
+      "sender-branch" : "UTS  ",
+      "multilingual-first-name" : null,
+      "status-at" : null,
+      "profile-activation-date" : "2022-03-16",
+      "relationship-status" : "A",
+      "dedup-reason-code" : null,
+      "resident-status" : "N",
+      "multilingual-birth-place" : null
+    },
+    "relationships" : {
+      "lifestyleInformations" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/lifestyleInformations",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/lifestyleInformations"
+        }
+      },
+      "addresses" : {
+        "data" : [ {
+          "id" : "50403003ADD001HK3440000005276048RES",
+          "type" : "addresses"
+        }, {
+          "id" : "50403003ADD001HK3440000005276048PER",
+          "type" : "addresses"
+        }, {
+          "id" : "50403003ADD001HK3440000005276048CSA",
+          "type" : "addresses"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/addresses",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/addresses"
+        }
+      },
+      "cdd" : {
+        "data" : [ {
+          "id" : "50403003CDD001HK3440000005276048B",
+          "type" : "cdd"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/cdd",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/cdd"
+        }
+      },
+      "preferences" : {
+        "data" : [ {
+          "id" : "50403003CUS001HK3440000005276048",
+          "type" : "preferences"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/preferences",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/preferences"
+        }
+      },
+      "aliases" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/aliases",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/aliases"
+        }
+      },
+      "documents" : {
+        "data" : [ {
+          "id" : "50403003DOC001HK3440000005276048KPPT1",
+          "type" : "documents"
+        }, {
+          "id" : "50403003DOC001HK3440000005276048CCID1",
+          "type" : "documents"
+        }, {
+          "id" : "50403003DOC001HK3440000005276048TCRS1",
+          "type" : "documents"
+        }, {
+          "id" : "50403003DOC001HK3440000005276048TTIN2",
+          "type" : "documents"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/documents",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/documents"
+        }
+      },
+      "otherbankinformations" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/otherbankinformations",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/otherbankinformations"
+        }
+      },
+      "cip" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/cip",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/cip"
+        }
+      },
+      "employments" : {
+        "data" : [ {
+          "id" : "50403003EMP001HK3440000005276048",
+          "type" : "employments"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/employments",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/employments"
+        }
+      },
+      "pdpa" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/pdpa",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/pdpa"
+        }
+      },
+      "risks" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/risks",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/risks"
+        }
+      },
+      "kyc" : {
+        "data" : [ {
+          "id" : "50403003CUS001HK3440000005276048",
+          "type" : "kyc"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/kyc",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/kyc"
+        }
+      },
+      "externalrelationships" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/externalrelationships",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/externalrelationships"
+        }
+      },
+      "tars" : {
+        "data" : [ {
+          "id" : "50403003TAR001HK3440000005276048",
+          "type" : "tars"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/tars",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/tars"
+        }
+      },
+      "messages" : {
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/messages",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/messages"
+        }
+      },
+      "contacts" : {
+        "data" : [ {
+          "id" : "50403003CON001HK3440000005276048M00",
+          "type" : "contacts"
+        }, {
+          "id" : "50403003CON001HK3440000005276048EMP",
+          "type" : "contacts"
+        } ],
+        "links" : {
+          "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/relationships/contacts",
+          "related" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048/contacts"
+        }
+      }
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/customers/50403003CUS001HK3440000005276048"
+    }
+  } ],
+  "included" : [ {
+    "id" : "50403003ADD001HK3440000000724535A01",
+    "type" : "addresses",
+    "attributes" : {
+      "country-code" : "ZZ"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/addresses/50403003ADD001HK3440000000724535A01"
+    }
+  }, {
+    "id" : "50403003ADD001HK3440000000724535A02",
+    "type" : "addresses",
+    "attributes" : {
+      "country-code" : "HK"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/addresses/50403003ADD001HK3440000000724535A02"
+    }
+  }, {
+    "id" : "50403003ADD001HK3440000000724535A03",
+    "type" : "addresses",
+    "attributes" : {
+      "country-code" : "HK"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/addresses/50403003ADD001HK3440000000724535A03"
+    }
+  }, {
+    "id" : "50403003ADD001HK3440000000724535CSA",
+    "type" : "addresses",
+    "attributes" : {
+      "country-code" : "HK"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/addresses/50403003ADD001HK3440000000724535CSA"
+    }
+  }, {
+    "id" : "50403003ADD001HK3440000000724535RES",
+    "type" : "addresses",
+    "attributes" : {
+      "country-code" : "HK"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/addresses/50403003ADD001HK3440000000724535RES"
+    }
+  }, {
+    "id" : "50403003ADD001HK3440000005276048CSA",
+    "type" : "addresses",
+    "attributes" : {
+      "country-code" : "CN"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/addresses/50403003ADD001HK3440000005276048CSA"
+    }
+  }, {
+    "id" : "50403003ADD001HK3440000005276048PER",
+    "type" : "addresses",
+    "attributes" : {
+      "country-code" : "CN"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/addresses/50403003ADD001HK3440000005276048PER"
+    }
+  }, {
+    "id" : "50403003ADD001HK3440000005276048RES",
+    "type" : "addresses",
+    "attributes" : {
+      "country-code" : "CN"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/addresses/50403003ADD001HK3440000005276048RES"
+    }
+  }, {
+    "id" : "50403003CDD001HK3440000000724535A",
+    "type" : "cdd",
+    "attributes" : {
+      "cdd-review-status" : "C"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/cdd/50403003CDD001HK3440000000724535A"
+    }
+  }, {
+    "id" : "50403003CDD001HK3440000005276048B",
+    "type" : "cdd",
+    "attributes" : {
+      "cdd-review-status" : "P"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/cdd/50403003CDD001HK3440000005276048B"
+    }
+  }, {
+    "id" : "50403003CON001HK3440000000724535B01",
+    "type" : "contacts",
+    "attributes" : {
+      "country-code" : null,
+      "isd-contact-country-code" : null,
+      "contact-classification-code" : "O",
+      "custom-contact-no" : "11980789"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/contacts/50403003CON001HK3440000000724535B01"
+    }
+  }, {
+    "id" : "50403003CON001HK3440000000724535BPN",
+    "type" : "contacts",
+    "attributes" : {
+      "country-code" : "852",
+      "isd-contact-country-code" : null,
+      "contact-classification-code" : "O",
+      "custom-contact-no" : "85211982789"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/contacts/50403003CON001HK3440000000724535BPN"
+    }
+  }, {
+    "id" : "50403003CON001HK3440000000724535EMP",
+    "type" : "contacts",
+    "attributes" : {
+      "country-code" : null,
+      "isd-contact-country-code" : null,
+      "contact-classification-code" : "E",
+      "custom-contact-no" : null
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/contacts/50403003CON001HK3440000000724535EMP"
+    }
+  }, {
+    "id" : "50403003CON001HK3440000000724535LMP",
+    "type" : "contacts",
+    "attributes" : {
+      "country-code" : "852",
+      "isd-contact-country-code" : null,
+      "contact-classification-code" : "M",
+      "custom-contact-no" : "85211739588"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/contacts/50403003CON001HK3440000000724535LMP"
+    }
+  }, {
+    "id" : "50403003CON001HK3440000000724535RPN",
+    "type" : "contacts",
+    "attributes" : {
+      "country-code" : "852",
+      "isd-contact-country-code" : null,
+      "contact-classification-code" : "T",
+      "custom-contact-no" : "85211861621"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/contacts/50403003CON001HK3440000000724535RPN"
+    }
+  }, {
+    "id" : "50403003CON001HK3440000005276048EMP",
+    "type" : "contacts",
+    "attributes" : {
+      "country-code" : null,
+      "isd-contact-country-code" : null,
+      "contact-classification-code" : "E",
+      "custom-contact-no" : null
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/contacts/50403003CON001HK3440000005276048EMP"
+    }
+  }, {
+    "id" : "50403003CON001HK3440000005276048M00",
+    "type" : "contacts",
+    "attributes" : {
+      "country-code" : "86",
+      "isd-contact-country-code" : "CN",
+      "contact-classification-code" : "M",
+      "custom-contact-no" : "8612345678900"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/contacts/50403003CON001HK3440000005276048M00"
+    }
+  }, {
+    "id" : "50403003DOC001HK3440000000724535KHID1",
+    "type" : "documents",
+    "attributes" : {
+      "document-number" : "C426336",
+      "document-type" : "HID",
+      "document-expiry-dt" : null,
+      "document-signatory-dt" : null
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/documents/50403003DOC001HK3440000000724535KHID1"
+    }
+  }, {
+    "id" : "50403003DOC001HK3440000000724535TCRS1",
+    "type" : "documents",
+    "attributes" : {
+      "document-number" : null,
+      "document-type" : "CRS",
+      "document-expiry-dt" : null,
+      "document-signatory-dt" : "2018-10-04"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/documents/50403003DOC001HK3440000000724535TCRS1"
+    }
+  }, {
+    "id" : "50403003DOC001HK3440000000724535TTIN1",
+    "type" : "documents",
+    "attributes" : {
+      "document-number" : "Z5283381",
+      "document-type" : "TIN",
+      "document-expiry-dt" : null,
+      "document-signatory-dt" : null
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/documents/50403003DOC001HK3440000000724535TTIN1"
+    }
+  }, {
+    "id" : "50403003DOC001HK3440000005276048CCID1",
+    "type" : "documents",
+    "attributes" : {
+      "document-number" : "123456789098765432",
+      "document-type" : "CID",
+      "document-expiry-dt" : null,
+      "document-signatory-dt" : null
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/documents/50403003DOC001HK3440000005276048CCID1"
+    }
+  }, {
+    "id" : "50403003DOC001HK3440000005276048KPPT1",
+    "type" : "documents",
+    "attributes" : {
+      "document-number" : "SB220316",
+      "document-type" : "PPT",
+      "document-expiry-dt" : null,
+      "document-signatory-dt" : null
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/documents/50403003DOC001HK3440000005276048KPPT1"
+    }
+  }, {
+    "id" : "50403003DOC001HK3440000005276048TCRS1",
+    "type" : "documents",
+    "attributes" : {
+      "document-number" : null,
+      "document-type" : "CRS",
+      "document-expiry-dt" : "9999-12-31",
+      "document-signatory-dt" : "2022-03-16"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/documents/50403003DOC001HK3440000005276048TCRS1"
+    }
+  }, {
+    "id" : "50403003DOC001HK3440000005276048TTIN2",
+    "type" : "documents",
+    "attributes" : {
+      "document-number" : "SB220316",
+      "document-type" : "TIN",
+      "document-expiry-dt" : null,
+      "document-signatory-dt" : null
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/documents/50403003DOC001HK3440000005276048TTIN2"
+    }
+  }, {
+    "id" : "50403003EMP001HK3440000000724535",
+    "type" : "employments",
+    "attributes" : {
+      "work-type" : "N",
+      "staff-category-code" : "STN"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/employments/50403003EMP001HK3440000000724535"
+    }
+  }, {
+    "id" : "50403003EMP001HK3440000005276048",
+    "type" : "employments",
+    "attributes" : {
+      "work-type" : "X",
+      "staff-category-code" : "STN"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/employments/50403003EMP001HK3440000005276048"
+    }
+  }, {
+    "id" : "50403003CUS001HK3440000000724535",
+    "type" : "kyc",
+    "attributes" : {
+      "qualification-code" : "UND",
+      "birth-country" : "HK"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/kyc/50403003CUS001HK3440000000724535"
+    }
+  }, {
+    "id" : "50403003CUS001HK3440000005276048",
+    "type" : "kyc",
+    "attributes" : {
+      "qualification-code" : "OTH",
+      "birth-country" : "CN"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/kyc/50403003CUS001HK3440000005276048"
+    }
+  }, {
+    "id" : "50403003CUS001HK3440000000724535",
+    "type" : "preferences",
+    "attributes" : {
+      "reference-id" : "3440000000724535"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/preferences/50403003CUS001HK3440000000724535"
+    }
+  }, {
+    "id" : "50403003CUS001HK3440000005276048",
+    "type" : "preferences",
+    "attributes" : {
+      "reference-id" : "3440000005276048"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/preferences/50403003CUS001HK3440000005276048"
+    }
+  }, {
+    "id" : "50403003TAR001HK3440000000724535",
+    "type" : "tars",
+    "attributes" : {
+      "us-citizen" : "N",
+      "us-resident" : "N",
+      "usa-indicia-ind" : "N",
+      "us-green-card-holder" : "N",
+      "recalcitrant-ind" : "N",
+      "usa-person-ind" : "N"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/tars/50403003TAR001HK3440000000724535"
+    }
+  }, {
+    "id" : "50403003TAR001HK3440000005276048",
+    "type" : "tars",
+    "attributes" : {
+      "us-citizen" : "N",
+      "us-resident" : "N",
+      "usa-indicia-ind" : "N",
+      "us-green-card-holder" : "N",
+      "recalcitrant-ind" : "N",
+      "usa-person-ind" : "N"
+    },
+    "links" : {
+      "self" : "https://icm-prd-api-layer.hk.standardchartered.com/Retail-Customer-Services/profile/v1/tars/50403003TAR001HK3440000005276048"
+    }
+  } ]
+}
